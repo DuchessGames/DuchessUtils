@@ -1,0 +1,20 @@
+# Unreal Engine standard ignores
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.idea/
+*.sln
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.DS_Store
+
+# Optional: if you use Rider
+.idea/
+
+# Optional: ignore temporary logs
+*.log
+*.tmp
